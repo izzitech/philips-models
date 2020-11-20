@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>izzitech.Carestream</RootNamespace>
+    <Authors>Iván E. Sierra</Authors>
+    <Company>izzitech</Company>
+    <Description>Librería con modelos de clases de los sistemas de Carestream.</Description>
+  </PropertyGroup>
+
+</Project>
